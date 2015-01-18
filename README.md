@@ -14,6 +14,9 @@ www.yahoo23.com
 www.slickdeals.com
 ```
 
+### build
+`go build resolver.go`
+
 ## running
 Run the binary supplying the path of the file that contains your domains:
 
