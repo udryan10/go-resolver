@@ -17,7 +17,7 @@ www.slickdeals.com
 ### build
 `go build resolver.go`
 
-## running
+## run
 Run the binary supplying the path of the file that contains your domains:
 
 `./resolver /tmp/hosts.txt`
