@@ -1,8 +1,7 @@
 # go-resolver
 Simple utility that will resolve domains and output status. Intended to be used against large sets of domains for mass resolving.
 
-## gopher
-<img width="30%" src="https://raw.github.com/golang-samples/gopher-vector/master/gopher.png"/>
+<img width="10%" src="https://raw.github.com/golang-samples/gopher-vector/master/gopher.png"/>
 
 ## requirement
 domains to resolve must be in a file, 1 per line:
